@@ -1,4 +1,4 @@
-# 🌟 Hey, I'm KappaAlul! 🌟
+# 🌟 Hey, I'm Kappaalul! 🌟
 
 ![Coffee](https://img.shields.io/badge/☕-Fueled%20by%20Coffee-yellow?style=for-the-badge)
 ![Coder of the Year](https://img.shields.io/badge/DMC-Coder%20of%20the%20Year-blueviolet?style=for-the-badge)
