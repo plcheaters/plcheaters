@@ -2,7 +2,7 @@
 
 ![Coffee](https://img.shields.io/badge/☕-Fueled%20by%20Coffee-yellow?style=for-the-badge)
 ![Coder of the Year](https://img.shields.io/badge/DMC-Coder%20of%20the%20Year-blueviolet?style=for-the-badge)
-![Age](https://img.shields.io/badge/Age-15-orange?style=for-the-badge)
+![Age](https://img.shields.io/badge/Age-17-orange?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Python-%23FFD43B?logo=python&logoColor=blue&style=for-the-badge)
 ![Languages](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Languages](https://img.shields.io/badge/C%23-%23239120?logo=c-sharp&logoColor=white&style=for-the-badge)
